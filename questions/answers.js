@@ -7,7 +7,7 @@ From: alwyn.grant@algolia.com
 Subject: Re:Bad design
 
 Hi Marissa, I'm sorry to hear your frustrations regarding our recently updated dashboard design.
-Hopefully I can help alleviate that! From your naviagation bar, you can click on the dropdown button
+Hopefully I can help alleviate that! From your navigation bar, you can click on the dropdown button
 next to your account icon. Click settings, and then click 'Applications' on the Organization settings page.
 
 This will show a comprehensive list of all existing indices. To the right of each index, the option to
@@ -41,7 +41,7 @@ if the use case allows for it. Please refer to our how-to guide on indexing long
 *link*indexing long documents.*link*
 
 Additionally, if you'd like, we can also set up a call today to go over how to handle this issue depending
-on your specific case. Please let me know if this is something you'd like at your earliest convienience.
+on your specific case. Please let me know if this is something you'd like at your earliest convenience.
 
 
 Thanks,
